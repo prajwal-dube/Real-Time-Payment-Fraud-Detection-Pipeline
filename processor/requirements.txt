@@ -1,0 +1,5 @@
+pyspark==3.5.6
+scikit-learn==1.8.0
+joblib==1.5.3
+kafka-python==2.2.15
+redis==6.4.0
